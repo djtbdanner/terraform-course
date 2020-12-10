@@ -17,4 +17,3 @@ resource "aws_security_group" "davetest" {
     SyncToken  = data.aws_ip_ranges.useast_ec2.sync_token
   }
 }
-
