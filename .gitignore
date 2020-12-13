@@ -4,3 +4,6 @@
 */.terraform
 */mykey*
 *.csv
+myKey*
+*.bak
+*.info
